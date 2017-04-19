@@ -1,0 +1,5 @@
+DCODE   DNAME
+001     CSE
+002     MECH
+003     ECE
+004     ELE
